@@ -1,18 +1,21 @@
 {
   "name": "flavorfywebsite",
   "homepage": "https://zachcoolidge.github.io/flavorfy",
-
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
+    "framer-motion": "^12.4.7",
     "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-mobile-app-button": "^1.2.18",
+    "react-mobile-store-button": "^0.0.6",
     "react-router-dom": "^7.1.5",
     "react-scripts": "5.0.1",
+    "styled-components": "^6.1.15",
     "web-vitals": "^2.1.0"
   },
   "scripts": {
