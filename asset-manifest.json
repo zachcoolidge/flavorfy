@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/flavorfy/static/css/main.d51a7905.css",
-    "main.js": "/flavorfy/static/js/main.a2a0e6d2.js",
+    "main.js": "/flavorfy/static/js/main.a87c5ff2.js",
     "static/js/845.26080dfe.chunk.js": "/flavorfy/static/js/845.26080dfe.chunk.js",
     "static/media/Huawei.svg": "/flavorfy/static/media/Huawei.05f60516d2a39d595dabc4ffdec3856a.svg",
     "static/media/Google-Play.svg": "/flavorfy/static/media/Google-Play.ac31ae6df1dba23b69f866a909077d74.svg",
@@ -9,11 +9,11 @@
     "static/media/Apple.svg": "/flavorfy/static/media/Apple.71320a89dc7cdb815431216cf0bc1dd2.svg",
     "index.html": "/flavorfy/index.html",
     "main.d51a7905.css.map": "/flavorfy/static/css/main.d51a7905.css.map",
-    "main.a2a0e6d2.js.map": "/flavorfy/static/js/main.a2a0e6d2.js.map",
+    "main.a87c5ff2.js.map": "/flavorfy/static/js/main.a87c5ff2.js.map",
     "845.26080dfe.chunk.js.map": "/flavorfy/static/js/845.26080dfe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d51a7905.css",
-    "static/js/main.a2a0e6d2.js"
+    "static/js/main.a87c5ff2.js"
   ]
 }
