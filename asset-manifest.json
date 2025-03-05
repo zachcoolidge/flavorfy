@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dumanlarllc.com/static/css/main.d51a7905.css",
-    "main.js": "/dumanlarllc.com/static/js/main.0b540521.js",
+    "main.js": "/dumanlarllc.com/static/js/main.a4a67542.js",
     "static/js/845.26080dfe.chunk.js": "/dumanlarllc.com/static/js/845.26080dfe.chunk.js",
     "static/media/Huawei.svg": "/dumanlarllc.com/static/media/Huawei.05f60516d2a39d595dabc4ffdec3856a.svg",
     "index.html": "/dumanlarllc.com/index.html",
@@ -9,11 +9,11 @@
     "static/media/Apple-light.svg": "/dumanlarllc.com/static/media/Apple-light.cdd7304efd805f2053de1036bf9b5ed4.svg",
     "static/media/Apple.svg": "/dumanlarllc.com/static/media/Apple.71320a89dc7cdb815431216cf0bc1dd2.svg",
     "main.d51a7905.css.map": "/dumanlarllc.com/static/css/main.d51a7905.css.map",
-    "main.0b540521.js.map": "/dumanlarllc.com/static/js/main.0b540521.js.map",
+    "main.a4a67542.js.map": "/dumanlarllc.com/static/js/main.a4a67542.js.map",
     "845.26080dfe.chunk.js.map": "/dumanlarllc.com/static/js/845.26080dfe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d51a7905.css",
-    "static/js/main.0b540521.js"
+    "static/js/main.a4a67542.js"
   ]
 }
